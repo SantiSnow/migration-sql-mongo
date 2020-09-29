@@ -11,6 +11,6 @@ _El programa aun necesita mejoras, no esta optimizado al 100%, dado que no tiene
 y necesita varias mejoras que se iran implementando._
 
 ## Construido con 🛠️
-*PHP
-*MySQL
-*MongoDB
+_*PHP_
+_*MySQL_
+_*MongoDB_
